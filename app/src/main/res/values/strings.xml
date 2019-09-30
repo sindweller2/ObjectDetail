@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Devil May Cry</string>
+    <string name="list">List</string>
+    <string name="grid">Grid</string>
+    <string name="card">Card</string>
+    <string name="favorite">Favorite</string>
+    <string name="share">Share</string>
+</resources>
